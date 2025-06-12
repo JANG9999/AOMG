@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7" alt="Image" width="300"  align="center"/>
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7" alt="Image" width="300"/>
+</div>
 <h2 align="center">AOMG 리뉴얼</h2>
 
 ## 작업자
