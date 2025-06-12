@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7)
+<img src="https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7" alt="Image" width="300"/>
 # AOMG 리뉴얼
 
 ## 작업자
