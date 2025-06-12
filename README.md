@@ -1,5 +1,6 @@
-# AOMG 리뉴얼
-<br><br><br>
+<h1 align="center">
+  AOMG 리뉴얼
+</h1>
 ## 작업자
 팀이름 Beyond  |  팀장 : 이미숙  |  팀원 : 김민지, 장서연
 <br><br>
