@@ -1,5 +1,5 @@
 <h1 align="center">
-  AOMG 리뉴얼
+  ![Image](https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7) AOMG 리뉴얼
 </h1>
 
 ## 작업자
