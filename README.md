@@ -29,6 +29,7 @@ AOMG는 이름 그대로 ‘Above Ordinary’, 즉 평범함을 넘어서는 것
 이 버튼을 클릭하면 숨겨진 메뉴가 슬라이드 형태로 나타나도록 구현해, 모바일 사용자도 편리하게 메뉴를 이용할 수 있도록 구성했습니다.
 <br><br>
 ### Footer
+![Image](https://github.com/user-attachments/assets/32b76d7e-f1d1-48f4-b541-0ebc0d64e29e)
 FOOTER에는 AOMG 공식 홈페이지로 이동할 수 있는 링크를 포함해, 방문자들이 더욱 다양한 정보를 쉽게 확인할 수 있도록 구성했습니다.
 또한 페이지 하단에서 상단으로 빠르게 이동할 수 있는 ‘탑 버튼’을 추가하여 사용자 편의성을 높였습니다.
 이와 함께 인스타그램, 유튜브 등 AOMG의 공식 SNS 채널로 연결되는 아이콘들도 함께 배치해, 팬들이 다양한 플랫폼에서 아티스트들의 소식과 콘텐츠를 손쉽게 접할 수 있도록 했습니다.
@@ -40,17 +41,22 @@ FOOTER에는 AOMG 공식 홈페이지로 이동할 수 있는 링크를 포함�
 최근 공개된 뮤직비디오들을 스와이퍼 형식으로 감상할 수 있으며, 각 영상 아래에는 제목과 아티스트명이 함께 표시되어 있습니다.
 <br><br>
 ### section1  서브 비주얼
+![Image](https://github.com/user-attachments/assets/2888cab6-25e5-417a-b9c0-7241b80e2083)
 서브비주얼 입니다.
 <br><br>
 ### section2 아티스트
+![Image](https://github.com/user-attachments/assets/3e768a40-e286-490b-ac60-cdbb90901f30)
+![Image](https://github.com/user-attachments/assets/f4a82848-d848-4e00-8b39-8245e38d4517)
 아티스트 소개 섹션에서는 스크롤을 내릴수록 아티스트 이미지가 서서히 나타나며, 이미지에 마우스를 올리면 해당 아티스트의 이름 색상이 변경됩니다. 
 또한 좌측에 있는 아티스트 이름을 클릭하면, 해당 아티스트의 이미지가 우측에 표시되어 직관적으로 정보를 확인할 수 있습니다.
 <br><br>
 ### section3  뉴스
+![Image](https://github.com/user-attachments/assets/f2cd10f8-9e44-4711-be3a-9d6a748efe49)
 회사에 대한 소식을 알 수 있습니다.
 뉴스 내용을 클릭하면 서브페이지로 이동합니다.
 <br><br>
 ### section4  회사 소개 바로가기
+![Image](https://github.com/user-attachments/assets/2cf9e11c-faaf-4b8b-956f-03f7315c920e)
 회사소개 부분입니다.
 VIEW MORE에 마우스를 올리면 화살표가 나오며 이 부분을 클릭하면 서브페이지로 이동합니다.
 <br><br>
