@@ -2,6 +2,7 @@
  <img src="https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7" alt="Image" width="300"/>
 </div>
 <h2 align="center">AOMG 리뉴얼</h2>
+<br><br>
 
 ## 작업자
 팀이름 Beyond  |  팀장 : 이미숙  |  팀원 : 김민지, 장서연
@@ -43,7 +44,7 @@ FOOTER에는 AOMG 공식 홈페이지로 이동할 수 있는 링크를 포함�
 <br><br>
 ## 메인 페이지 
 
-### main 1 메인 비주얼
+### main 메인 비주얼
 ![Image](https://github.com/user-attachments/assets/cd6f5718-9850-444f-ae22-a5f6956c9c29)
 <br><br><br>
 최근 공개된 뮤직비디오들을 스와이퍼 형식으로 감상할 수 있으며, 각 영상 아래에는 제목과 아티스트명이 함께 표시되어 있습니다.
