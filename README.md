@@ -1,6 +1,4 @@
-<h1 align="center">
-  ![Image](https://github.com/user-attachments/assets/00c3ad8e-a725-433e-960a-0df099de43c7) AOMG 리뉴얼
-</h1>
+#AOMG 리뉴얼
 
 ## 작업자
 팀이름 Beyond  |  팀장 : 이미숙  |  팀원 : 김민지, 장서연
