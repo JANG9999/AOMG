@@ -36,7 +36,7 @@ FOOTER에는 AOMG 공식 홈페이지로 이동할 수 있는 링크를 포함�
 ## 메인 페이지 
 
 ### main 1 메인 비주얼
-![AOMG Logo]([https://upload.wikimedia.org/wikipedia/commons/1/1a/AOMG_logo.png](https://private-user-images.githubusercontent.com/54114909/454178539-cd6f5718-9850-444f-ae22-a5f6956c9c29.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2OTI4NTksIm5iZiI6MTc0OTY5MjU1OSwicGF0aCI6Ii81NDExNDkwOS80NTQxNzg1MzktY2Q2ZjU3MTgtOTg1MC00NDRmLWFlMjItYTVmNjk1NmM5YzI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjEyVDAxNDIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiNDg1NzY2MDdjOGE5MmVkNWJmOWZmZWJlMjNhYWVmMjY1ZGMzYTgwOTYyOTkzNWE5NDg1ZDYxODI2NDg4ZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DyHbkvEauLSWMEJMX6Xwp4e_Prw8khaYfckbWs3yvhs))
+![Image](https://github.com/user-attachments/assets/cd6f5718-9850-444f-ae22-a5f6956c9c29)
 최근 공개된 뮤직비디오들을 스와이퍼 형식으로 감상할 수 있으며, 각 영상 아래에는 제목과 아티스트명이 함께 표시되어 있습니다.
 <br><br>
 ### section1  서브 비주얼
