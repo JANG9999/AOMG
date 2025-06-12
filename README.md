@@ -25,6 +25,7 @@ AOMG는 이름 그대로 ‘Above Ordinary’, 즉 평범함을 넘어서는 것
 ### Header
 ![Image](https://github.com/user-attachments/assets/d532a5ca-3ae6-4c4c-845c-acde11078f15)
 ![Image](https://github.com/user-attachments/assets/55cb5c2e-1b0a-42d1-afa5-7e04560eb44c)
+<br><br><br>
 메인 페이지의 헤더는 배경색을 투명하게 설정해, 시각적으로 메인 영상과 자연스럽게 어우러지도록 디자인했습니다.
 또한 사용자가 스크롤을 내려 특정 위치에 도달하면, 헤더의 배경색이 검은색으로 변경되어 가독성과 안정감을 높였습니다.
 각 메뉴에는 마우스 오버 시 주황색으로 변경되는 효과를 적용해 인터랙션을 강화했으며, 반응형 환경에서는 헤더의 메뉴가 사라지고 우측에 토글 버튼이 나타납니다.
@@ -32,6 +33,7 @@ AOMG는 이름 그대로 ‘Above Ordinary’, 즉 평범함을 넘어서는 것
 <br><br>
 ### Footer
 ![Image](https://github.com/user-attachments/assets/32b76d7e-f1d1-48f4-b541-0ebc0d64e29e)
+<br><br><br>
 FOOTER에는 AOMG 공식 홈페이지로 이동할 수 있는 링크를 포함해, 방문자들이 더욱 다양한 정보를 쉽게 확인할 수 있도록 구성했습니다.
 또한 페이지 하단에서 상단으로 빠르게 이동할 수 있는 ‘탑 버튼’을 추가하여 사용자 편의성을 높였습니다.
 이와 함께 인스타그램, 유튜브 등 AOMG의 공식 SNS 채널로 연결되는 아이콘들도 함께 배치해, 팬들이 다양한 플랫폼에서 아티스트들의 소식과 콘텐츠를 손쉽게 접할 수 있도록 했습니다.
