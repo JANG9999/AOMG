@@ -88,32 +88,29 @@ VIEW MORE에 마우스를 올리면 화살표가 나오며 이 부분을 클릭�
 <br><br>
 ## 서브페이지 : 스케줄
 아티스트의 스케줄을 확인할 수 있는 페이지입니다.
+![Image](https://github.com/user-attachments/assets/57a852a2-201d-43a8-8bb8-941e1de6c68d)
 헤더 바로 아래에는 공연 포스터가 좌우로 움직이는 애니메이션이 있으며, 스크롤을 내릴수록 애니메이션 속도가 빨라지는 효과가 적용되어 있습니다.
+![Image](https://github.com/user-attachments/assets/14c7150d-8cea-460b-88c1-5cc703e956f8)
 스케줄 섹션은 좌측에 일정 내용을, 우측에 달력으로 구성되어 있으며 달력에는 라디오, 공연 등 주요 일정이 컬러 박스로 표시되어 한눈에 확인할 수 있습니다. 
 또한 1주일간의 날씨 정보도 함께 제공되어 더욱 편리합니다.
 <br><br>
 ## 서브페이지 : 뉴스
+![Image](https://github.com/user-attachments/assets/acbf115a-4d09-44a4-bca9-8e5c4822daee)
 AOMG의 소식을 확인할 수 있는 페이지입니다.
 각 제목에 마우스를 올리면 밑줄이 생겨, 어떤 항목에 커서가 위치해 있는지 직관적으로 알 수 있도록 마우스 이벤트가 적용되어 있습니다.
 <br><br>
 ## 서브페이지 : 굿즈
+![Image](https://github.com/user-attachments/assets/c3fc7590-be75-4099-92a5-1c98ee5ccae7)
 이 페이지에서는 베스트 상품을 통해 현재 어떤 상품이 인기가 많은지 한눈에 확인할 수 있습니다.
 슬라이드는 사용자 경험을 고려해 구성되어 있으며, 특히 활성화된(액티브) 슬라이드는 크기를 키워 시각적인 집중도를 높였습니다.
+![Image](https://github.com/user-attachments/assets/a2ae0c2a-9c96-40d8-9e15-40d99fdb4af6)
 그 아래에는 새로 출시된 앨범들을 소개하는 섹션이 있어, 최신 앨범 정보를 빠르게 확인할 수 있습니다.
+![Image](https://github.com/user-attachments/assets/ced27898-0521-4e72-8433-f734d7674e01)
 마지막으로, 'All Product' 섹션에서는 AOMG의 다양한 굿즈를 한눈에 볼 수 있도록 구성되어 있어, 원하는 상품을 쉽게 찾아보고 모든 굿즈 정보를 한 곳에서 확인할 수 있습니다.
  <br><br>
-## ⚙️ 개발 환경
-
-- 사용 프로그램 : <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-- 사용된 기술 :
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white">
-<br/><br/>
-
-
-
 
 ## 🔗 링크
-- [리뉴얼 디자인 시안 피그마 주소]()
+- [리뉴얼 디자인 시안 피그마 주소](https://www.figma.com/design/4cPoglP1wtBmNeStRcINf1/%EB%A6%AC%EB%89%B4%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=271-3&t=7Nu3qPi2wskbtxj1-1)
 =======
 # renewal_interpark_ticket
 >>>>>>> e49a78842c501b95afb44cf54389e4d3a7d9d87a
