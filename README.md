@@ -110,7 +110,7 @@ AOMG의 소식을 확인할 수 있는 페이지입니다.
  <br><br>
 
 ## 🔗 링크
-- [리뉴얼 디자인 시안 피그마 주소](https://www.figma.com/design/4cPoglP1wtBmNeStRcINf1/%EB%A6%AC%EB%89%B4%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=271-3&t=7Nu3qPi2wskbtxj1-1)
-=======
-# renewal_interpark_ticket
->>>>>>> e49a78842c501b95afb44cf54389e4d3a7d9d87a
+- [리뉴얼 작업 피그마 주소](https://www.figma.com/design/4cPoglP1wtBmNeStRcINf1/%EB%A6%AC%EB%89%B4%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=271-3&t=7Nu3qPi2wskbtxj1-1)
+
+# AOMG 리뉴얼 사이트
+- [AOMG 리뉴얼얼](https://jang9999.github.io/AOMG/index.html)
