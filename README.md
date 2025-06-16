@@ -80,7 +80,6 @@ VIEW MORE에 마우스를 올리면 화살표가 나오며 이 부분을 클릭�
 ![Image](https://github.com/user-attachments/assets/35ce2cbf-48be-4c83-8d6a-8a41181a6106)
 <br><br><br>
 스크롤을 내리면 영상이 서서히 확대되면서 회사를 소개하는 문구가 등장합니다. 
-![Image](h<br>ttps://github.com/user-attachments/assets/7c986ec4-d11d-41e5-a407-a0217aa7d940)
 <br><br><br>
 영상이 끝난 뒤에는 세 가지 주제를 중심으로 회사에 대한 소개가 이어집니다.
 ![Image](https://github.com/user-attachments/assets/363069dc-4793-4adc-b327-39fe6af2ad79)
